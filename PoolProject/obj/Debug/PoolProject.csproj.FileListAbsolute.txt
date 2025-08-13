@@ -1,0 +1,12 @@
+C:\Users\Ehab\Downloads\PoolProject\bin\Debug\PoolProject.exe.config
+C:\Users\Ehab\Downloads\PoolProject\bin\Debug\PoolProject.exe
+C:\Users\Ehab\Downloads\PoolProject\bin\Debug\PoolProject.pdb
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.csproj.AssemblyReference.cache
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.ctrPoolTable.resources
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.Properties.Resources.resources
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.csproj.GenerateResource.cache
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.csproj.CoreCompileInputs.cache
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.exe
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.pdb
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.exe.config
+C:\Users\Ehab\Downloads\PoolProject\obj\Debug\PoolProject.Form1.resources
